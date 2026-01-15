@@ -117,8 +117,8 @@ I am a **System Analyst & Fullstack Analyst** with 3+ years of experience in:
 <a href="https://www.atlassian.com/software/confluence" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="40" width="40" alt="Confluence" title="Confluence" />
 </a>
-<a href="https://plantuml.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plantuml/plantuml-original.svg" height="40" width="40" alt="PlantUML" title="PlantUML" />
+<a href="https://swagger.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" width="40" alt="Swagger/OpenAPI" title="Swagger/OpenAPI" />
 </a>
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" title="Figma" />
