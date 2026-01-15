@@ -29,35 +29,35 @@ Primary domain: engineering and calculation systems, GUI/services/database integ
 
 ## Tech Stack
 
-<a href="https://www.postgresql.org/">
-  <img src="resources/postgresql-original.svg" height="40" width="40" />
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
 </a>
-<a href="https://www.python.org/">
-  <img src="resources/python-original.svg" height="40" width="40" />
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" alt="Python" />
 </a>
-<a href="https://en.cppreference.com/w/">
-  <img src="resources/cplusplus-original.svg" height="40" width="40" />
+<a href="https://en.cppreference.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
 </a>
-<a href="https://www.docker.com/">
-  <img src="resources/docker-original.svg" height="40" width="40" />
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" />
 </a>
-<a href="https://www.linux.org/">
-  <img src="resources/linux-original.svg" height="40" width="40" />
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" />
 </a>
-<a href="https://git-scm.com/">
-  <img src="resources/git-original.svg" height="40" width="40" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" alt="Git" />
 </a>
-<a href="https://www.postman.com/">
-  <img src="resources/postman-original.svg" height="40" width="40" />
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" />
 </a>
-<a href="https://www.jetbrains.com/datagrip/">
-  <img src="resources/datagrip-original.svg" height="40" width="40" />
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" />
 </a>
-<a href="https://code.visualstudio.com/">
-  <img src="resources/vscode-original.svg" height="40" width="40" />
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" />
 </a>
-<a href="https://www.figma.com/">
-  <img src="resources/figma-original.svg" height="40" width="40" />
+<a href="https://www.jetbrains.com/datagrip/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" width="40" alt="DataGrip" />
 </a>
 
 ---
