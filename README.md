@@ -145,7 +145,7 @@ All projects are available in my comprehensive portfolio repository demonstratin
 | **Enterprise Data Integration Platform** | Multi-source data integration with Kafka message streaming. ETL pipeline design and optimization, SQL performance tuning, gRPC/REST API architecture, Jira/Confluence documentation | Kafka, PostgreSQL, gRPC, REST API, ETL, SQL Optimization |
 | **Technical Documentation & Process Models** | Comprehensive BPMN, UML, and API specifications. Business process models (BPMN 2.0), OpenAPI/Swagger specifications, ER diagrams, architecture diagrams with PlantUML | BPMN, UML, OpenAPI, PlantUML, Swagger, ER Diagrams |
 
-**📁 View Complete Portfolio**: [Portfolio]([https://github.com/Sandro302/Sandro302](https://github.com/Sandro302/portfolio))
+**📁 View Complete Portfolio**: [Portfolio](https://github.com/Sandro302/portfolio)
 
 ---
 
