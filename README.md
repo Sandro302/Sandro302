@@ -135,24 +135,6 @@ I am a **System Analyst & Fullstack Analyst** with 3+ years of experience in:
 
 ---
 
-## Professional Experience<br>
-
-### System Analyst
-**March 2022 – Present** (3+ years)
-
-**Key Responsibilities:**
-* Analyze complex engineering systems and document business requirements
-* Design REST/gRPC APIs for enterprise integrations
-* Create BPMN process models and UML diagrams
-* Develop PostgreSQL database schemas and optimize SQL queries
-* Support backend (Python, C++) and frontend (Qt GUI) development teams
-* Document technical specifications in Confluence with PlantUML diagrams
-* Manage project workflows in Jira (Agile/Scrum)
-
-**Technologies**: REST API, gRPC, Kafka, PostgreSQL, SQL, Swagger/OpenAPI, PlantUML, Jira, Confluence, Python, C++, Qt Creator, Linux
-
----
-
 ## Featured Projects<br>
 
 * **Pipeline Hydraulic Calculation System**<br>
