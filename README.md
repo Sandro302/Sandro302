@@ -137,27 +137,15 @@ I am a **System Analyst & Fullstack Analyst** with 3+ years of experience in:
 
 ## Featured Projects<br>
 
-* **Pipeline Hydraulic Calculation System**<br>
-  Real-world engineering project for pipeline network analysis with OLGA integration
-  - Systems analysis and requirements documentation
-  - PostgreSQL database design for hydraulic parameters
-  - REST API design for calculation service integration
-  - BPMN process modeling and architecture design
-  - [Pipeline System Project](#projects)<br>
+All projects are available in my comprehensive portfolio repository demonstrating full-stack analysis capabilities:
 
-* **Enterprise Data Integration Platform**<br>
-  Multi-source data integration with Kafka message streaming
-  - ETL pipeline design and optimization
-  - PostgreSQL schema design and SQL performance tuning
-  - gRPC/REST API architecture
-  - Jira/Confluence documentation<br>
+| Project | Description | Technologies |
+|---------|-------------|---------------|
+| **Pipeline Hydraulic Calculation System** | Real-world engineering project for pipeline network analysis with OLGA integration. Systems analysis, PostgreSQL database design, REST API, BPMN process modeling, architecture design | PostgreSQL, REST API, BPMN, OLGA, Architecture Design |
+| **Enterprise Data Integration Platform** | Multi-source data integration with Kafka message streaming. ETL pipeline design and optimization, SQL performance tuning, gRPC/REST API architecture, Jira/Confluence documentation | Kafka, PostgreSQL, gRPC, REST API, ETL, SQL Optimization |
+| **Technical Documentation & Process Models** | Comprehensive BPMN, UML, and API specifications. Business process models (BPMN 2.0), OpenAPI/Swagger specifications, ER diagrams, architecture diagrams with PlantUML | BPMN, UML, OpenAPI, PlantUML, Swagger, ER Diagrams |
 
-* **Technical Documentation & Process Models**<br>
-  Comprehensive BPMN, UML, and API specifications
-  - Business process models (BPMN 2.0)
-  - OpenAPI/Swagger specifications
-  - ER diagrams and database documentation
-  - Architecture diagrams with PlantUML<br>
+**📁 View Complete Portfolio**: [github.com/Sandro302/Sandro302](https://github.com/Sandro302/Sandro302)
 
 ---
 
