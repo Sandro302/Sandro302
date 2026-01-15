@@ -96,9 +96,3 @@ Primary domain: engineering and calculation systems, GUI/services/database integ
 ✓ Data Modeling & ER Diagrams  
 
 ---
-
-## Get in touch<br>
-
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-💼 Portfolio: [Your Website](https://yourportfolio.com)  
